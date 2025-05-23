@@ -90,6 +90,15 @@ Definir recompensas e penalidades que guiem o aprendizado de forma eficiente
 
 Balancear a velocidade do treinamento com a qualidade do aprendizado
 
+
 ✅ Comentários Finais
 
 O projeto demonstra na prática os conceitos de aprendizado por reforço com Q-Learning, incluindo a exploração vs. exploração, atualização dinâmica da Q-Table e aprendizado com recompensas e penalidades.
+
+
+
+📈 Apresentação Visual
+Durante o treinamento do agente, foram gerados gráficos e prints que ilustram a evolução do desempenho, mostrando o número de vitórias, derrotas e empates ao longo dos episódios. Essas visualizações ajudam a entender como o agente melhora seu aprendizado com o tempo e a eficácia do algoritmo aplicado.
+
+
+![image](https://github.com/user-attachments/assets/ec04a0ca-52c4-4ae5-84f4-f38a9179c29d)

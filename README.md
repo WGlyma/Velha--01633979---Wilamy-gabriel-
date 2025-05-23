@@ -117,3 +117,39 @@ Empates (linha azul): Os empates ocorrem com menor frequência e se mantêm rela
 
 
 Esse desempenho demonstra que o agente está evoluindo com sucesso durante o treinamento, tornando-se cada vez mais eficiente em alcançar vitórias e minimizar derrotas.
+
+
+
+
+![image](https://github.com/user-attachments/assets/36d07e36-2192-4986-b4c7-90d486c47626)
+
+
+Execução do Jogo da Velha com Agente Q-Learning:
+
+
+A imagem mostra a execução em tempo real do jogo da velha, onde um agente treinado com Q-Learning enfrenta um jogador humano. O ambiente foi implementado com a biblioteca Pygame, permitindo uma interface gráfica interativa.
+
+
+Janela do Jogo
+
+
+Na parte central da tela, vemos a interface gráfica do jogo:
+
+
+O jogador humano está utilizando o símbolo "X", e o agente, o "O".
+Abaixo do tabuleiro, aparece o placar atual da partida:
+Jogador: 2 | Agente: 0, indicando que o jogador venceu duas partidas, enquanto o agente ainda não venceu nesta execução.
+Terminal (lado esquerdo)
+
+
+O terminal exibe o desempenho do agente durante o treinamento:
+
+
+A cada 100 episódios, são exibidas as estatísticas de vitórias, derrotas e empates.
+Os resultados mostram uma clara evolução no desempenho do agente, com aumento no número de vitórias e queda no número de derrotas e empates.
+Por exemplo:
+No episódio 100: Vitórias=56, Derrotas=33, Empates=11
+No episódio 4200: Vitórias=81, Derrotas=15, Empates=4
+
+
+Esses dados reforçam que o agente está aprendendo com suas experiências e se tornando cada vez mais eficiente no jogo.

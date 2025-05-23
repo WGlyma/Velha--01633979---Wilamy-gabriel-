@@ -45,30 +45,22 @@ Q[s][a] = Q[s][a] + α * (recompensa + γ * max(Q[s']) - Q[s][a])
 🧪 Como Executar o Projeto
 
 
-Clonar o repositório
+1- Clonar o repositório
 
 
 
-Copiar
-Editar
-git clone <URL-do-seu-repo>
-cd <pasta-do-repo>
-Instalar dependências
+git clone https://github.com/WGlyma/Velha--01633979---Wilamy-gabriel-.git
+cd Velha--01633979---Wilamy-gabriel-
 
 
-
-nginx
-Copiar
-Editar
+2- Instalar as dependências
 pip install pygame numpy
-Executar o script principal
 
 
-
-nginx
-Copiar
-Editar
+3- Executar o script principal
 python jogo_tictactoe.py
+
+
 
 
 

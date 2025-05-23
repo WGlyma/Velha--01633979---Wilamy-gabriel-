@@ -1,8 +1,8 @@
 import pygame
 import random
 import pickle
-import numpy as np
-import matplotlib.pyplot as plt  # NOVO
+# import numpy as np
+import matplotlib.pyplot as plt  
 
 # Inicializando o pygame
 pygame.init()

@@ -1,7 +1,7 @@
 Nome do arquivo: 
-  Data de criação**: 23/05/2025
-  Autor**: Wilamy Gabriel
-  Matrícula **: 01633979
+  Data de criação: 23/05/2025
+  Autor: Wilamy Gabriel
+  Matrícula : 01633979
 
 
 ❌ Jogo da Velha com Q-Learning
@@ -19,7 +19,7 @@ Treinar um agente capaz de jogar de forma inteligente, utilizando Q-Learning par
 
 ---
 
-##🛠️ Tecnologias e Bibliotecas Utilizadas
+🛠️ Tecnologias e Bibliotecas Utilizadas
 
 
 Python 3.x
@@ -43,16 +43,16 @@ Q[s][a] = Q[s][a] + α * (recompensa + γ * max(Q[s']) - Q[s][a])
 
 - ε (epsilon): taxa de exploração (decai ao longo do tempo)
 
----
 
-##🧪 Como Executar o Projeto
+
+🧪 Como Executar o Projeto
 
 
 1. Clonar o repositório
 
 
 
-```
+
 git clone https://github.com/WGlyma/Velha--01633979---Wilamy-gabriel-.git
 cd Velha--01633979---Wilamy-gabriel-
 
@@ -81,6 +81,7 @@ Diminuição das derrotas e empates ao longo do treinamento
 
 Visualização gráfica da partida em tempo real com placar atualizado
 
+---
 
 🧠 Dificuldades Encontradas
 
@@ -90,11 +91,13 @@ Definir recompensas e penalidades que guiem o aprendizado de forma eficiente
 
 Balancear a velocidade do treinamento com a qualidade do aprendizado
 
+---
 
 ✅ Comentários Finais
 
 O projeto demonstra na prática os conceitos de aprendizado por reforço com Q-Learning, incluindo a exploração vs. exploração, atualização dinâmica da Q-Table e aprendizado com recompensas e penalidades.
 
+---
 
 
 📈 Apresentação Visual
@@ -118,7 +121,7 @@ Empates (linha azul): Os empates ocorrem com menor frequência e se mantêm rela
 
 Esse desempenho demonstra que o agente está evoluindo com sucesso durante o treinamento, tornando-se cada vez mais eficiente em alcançar vitórias e minimizar derrotas.
 
-
+---
 
 
 

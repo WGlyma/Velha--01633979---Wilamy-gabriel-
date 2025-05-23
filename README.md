@@ -1,17 +1,17 @@
 Nome do arquivo: 
- ** Data de criação**: 23/05/2025
- ** Autor**: Wilamy Gabriel
- ** Matrícula **: 01633979
+  Data de criação**: 23/05/2025
+  Autor**: Wilamy Gabriel
+  Matrícula **: 01633979
 
 
-#❌ Jogo da Velha com Q-Learning
+❌ Jogo da Velha com Q-Learning
 
 
 Projeto de aprendizado por reforço que treina um agente para jogar jogo da velha contra um oponente aleatório. O agente aprende estratégias para vencer, empatar e evitar derrotas, atualizando sua Q-Table dinamicamente.
 
 ---
 
-##📌 Objetivo
+📌 Objetivo
 
 
 
@@ -52,7 +52,7 @@ Q[s][a] = Q[s][a] + α * (recompensa + γ * max(Q[s']) - Q[s][a])
 
 
 
-```bash
+```
 git clone https://github.com/WGlyma/Velha--01633979---Wilamy-gabriel-.git
 cd Velha--01633979---Wilamy-gabriel-
 
@@ -66,13 +66,13 @@ pip install pygame numpy
 
 
 3- Executar o script principal
-python jogo_tictactoe.py
+python jogo_tictactoe.py 
+
+---
 
 
 
-
-
-##📊 Resultados Obtidos
+📊 Resultados Obtidos
 
 
 Aprendizado progressivo do agente, aumentando o número de vitórias

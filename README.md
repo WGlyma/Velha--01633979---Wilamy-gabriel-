@@ -27,9 +27,11 @@ Python 3.x
 Pygame (interface gráfica)
 
 Numpy (opcional para manipulação de dados)
+
+
 ---
 
-##📘 Algoritmo Utilizado
+📘 Algoritmo Utilizado
 
 
 Q-Learning com estratégia ε-greedy para balancear exploração e exploração.

@@ -49,12 +49,17 @@ Q[s][a] = Q[s][a] + α * (recompensa + γ * max(Q[s']) - Q[s][a])
 
 
 
+
 git clone https://github.com/WGlyma/Velha--01633979---Wilamy-gabriel-.git
 cd Velha--01633979---Wilamy-gabriel-
 
 
+
+
 2- Instalar as dependências
 pip install pygame numpy
+
+
 
 
 3- Executar o script principal

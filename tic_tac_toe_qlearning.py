@@ -181,7 +181,7 @@ def train_agent(agent, env, episodes=5000):
     plt.legend()
     plt.grid(True)
     plt.tight_layout()
-    plt.savefig("grafico_desempenho.png")  # ← SALVA A IMAGEM
+    plt.savefig("grafico_desempenho.png")  # SALVA A IMAGEM
     plt.show()
 
 # GAMEPLAY COM PLACAR

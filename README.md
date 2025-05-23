@@ -121,7 +121,15 @@ Esse desempenho demonstra que o agente está evoluindo com sucesso durante o tre
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/36d07e36-2192-4986-b4c7-90d486c47626)
+
+
+
+
+
+
 
 
 Execução do Jogo da Velha com Agente Q-Learning:

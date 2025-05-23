@@ -108,6 +108,12 @@ Desempenho do Agente Durante o Treinamento:
 O gráfico acima ilustra a performance do agente de aprendizado por reforço durante o processo de treinamento no ambiente do jogo da velha. O eixo X representa a quantidade de episódios (partidas jogadas), enquanto o eixo Y mostra a quantidade de resultados alcançados (vitórias, derrotas e empates) a cada intervalo de episódios.
 
 Vitórias (linha verde): O número de vitórias do agente aumenta de forma significativa à medida que o treinamento avança, estabilizando-se acima de 80 vitórias por lote de episódios. Isso indica que o agente está aprendendo estratégias eficazes para vencer o jogo.
+
+
 Derrotas (linha vermelha): A quantidade de derrotas cai rapidamente nas primeiras iterações e se mantém baixa ao longo do tempo. Isso mostra que o agente está deixando de cometer erros comuns e aprendendo a evitar situações de perda.
+
+
 Empates (linha azul): Os empates ocorrem com menor frequência e se mantêm relativamente estáveis, o que é comum em jogos como o da velha, onde muitas jogadas perfeitas terminam empatadas.
+
+
 Esse desempenho demonstra que o agente está evoluindo com sucesso durante o treinamento, tornando-se cada vez mais eficiente em alcançar vitórias e minimizar derrotas.
